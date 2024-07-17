@@ -3,6 +3,7 @@
     <PropertyGroup>
         <RootNamespace>ca_react.Application.UnitTests</RootNamespace>
         <AssemblyName>ca_react.Application.UnitTests</AssemblyName>
+        <ErrorOnDuplicatePublishOutputFiles>false</ErrorOnDuplicatePublishOutputFiles>
     </PropertyGroup>
 
     <ItemGroup>

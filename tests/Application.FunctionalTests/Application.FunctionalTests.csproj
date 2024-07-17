@@ -3,6 +3,7 @@
     <PropertyGroup>
         <RootNamespace>ca_react.Application.FunctionalTests</RootNamespace>
         <AssemblyName>ca_react.Application.FunctionalTests</AssemblyName>
+        <ErrorOnDuplicatePublishOutputFiles>false</ErrorOnDuplicatePublishOutputFiles>
     </PropertyGroup>
 
     <ItemGroup>
